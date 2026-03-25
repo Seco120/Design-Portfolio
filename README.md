@@ -7,8 +7,6 @@ Bu depo, **TNC Group** bünyesinde gerçekleştirdiğim Bilgi Teknolojileri staj
 ## 🕷️ Staj Bitirme Projesi: Spider-Man Concept Poster
 Kurumsal staj programı kapsamında, Adobe Photoshop yetkinliklerimi sergilemek amacıyla hazırladığım, katman maskeleme ve dijital manipülasyon odaklı konsept çalışma.
 
-![Spider-Man Poster](İrfanSercanErgüzel_Spiderman_Poster.jpg)
-
 ### 🛠️ Teknik Uygulamalar & Yetkinlikler
 * **Yazılım:** Adobe Photoshop (Uygulamalı Teknikler)
 * **Kompozisyon:** Derinlik algısı için çoklu katman yönetimi ve maskeleme.
