@@ -7,8 +7,6 @@ Bu depo, BT stajım ve kişisel gelişim sürecimde **Adobe Photoshop** kullanar
 ## 🕷️ Öne Çıkan Çalışma: Spider-Man Concept Poster
 Staj sürecindeki "Yaratıcı Çalışmalar" kapsamında, katman maskeleme ve dijital manipülasyon teknikleri odaklı hazırladığım poster çalışması.
 
-![Spider-Man Poster](İrfanSercanErgüzel_Spiderman_Poster.jpg)
-
 ### 🛠️ Kullanılan Teknikler & Araçlar
 * **Yazılım:** Adobe Photoshop
 * **Kompozisyon:** Katman maskeleme ve fırça teknikleri ile derinlik oluşturma.
