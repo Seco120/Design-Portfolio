@@ -1,17 +1,21 @@
-# 🎨 Grafik Tasarım Portfolyosu
+# 🎨 Grafik Tasarım & Dijital Manipülasyon Portfolyosu
 
-Bu depo, BT stajım ve kişisel gelişim sürecimde **Adobe Photoshop** kullanarak hazırladığım dijital tasarım çalışmalarını içermektedir.
-
----
-
-## 🕷️ Öne Çıkan Çalışma: Spider-Man Concept Poster
-Staj sürecindeki "Yaratıcı Çalışmalar" kapsamında, katman maskeleme ve dijital manipülasyon teknikleri odaklı hazırladığım poster çalışması.
-
-### 🛠️ Kullanılan Teknikler & Araçlar
-* **Yazılım:** Adobe Photoshop
-* **Kompozisyon:** Katman maskeleme ve fırça teknikleri ile derinlik oluşturma.
-* **Efektler:** Glitch (cızırtı) efekti ve özel doku (texture) uygulamaları.
-* **Renk Paleti:** Karakterin atmosferine uygun kontrast ve doygunluk ayarları.
+Bu depo, **TNC Group** bünyesinde gerçekleştirdiğim Bilgi Teknolojileri stajımın **Görsel Tasarım Bitirme Projesi**'ni içermektedir.
 
 ---
-*Bu çalışma, TNC Group bünyesindeki stajyerlik dönemimde sergilediğim tasarım yetkinliklerinin bir örneğidir.*
+
+## 🕷️ Staj Bitirme Projesi: Spider-Man Concept Poster
+Kurumsal staj programı kapsamında, Adobe Photoshop yetkinliklerimi sergilemek amacıyla hazırladığım, katman maskeleme ve dijital manipülasyon odaklı konsept çalışma.
+
+![Spider-Man Poster](İrfanSercanErgüzel_Spiderman_Poster.jpg)
+
+### 🛠️ Teknik Uygulamalar & Yetkinlikler
+* **Yazılım:** Adobe Photoshop (Uygulamalı Teknikler)
+* **Kompozisyon:** Derinlik algısı için çoklu katman yönetimi ve maskeleme.
+* **Dijital Efektler:** Karakterin evrenine uygun 'Glitch' ve doku çalışmaları.
+* **Kurumsal Onay:** Bu çalışma, staj bitirme gerekliliği olarak sunulmuş ve kabul edilmiştir.
+
+---
+**Hazırlayan:** İrfan Sercan Ergüzel  
+**Kurum:** TNC Group & Europäisches Bildungsinstitut  
+**Referans:** Markalar Genel Koordinatörü Zekiye İrem Akıcı tarafından onaylıdır.
